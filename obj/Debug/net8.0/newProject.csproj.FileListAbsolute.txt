@@ -1,0 +1,4 @@
+/Users/lukaslarsen/newProject/obj/Debug/net8.0/newProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaslarsen/newProject/obj/Debug/net8.0/newProject.AssemblyInfoInputs.cache
+/Users/lukaslarsen/newProject/obj/Debug/net8.0/newProject.AssemblyInfo.cs
+/Users/lukaslarsen/newProject/obj/Debug/net8.0/newProject.csproj.CoreCompileInputs.cache
