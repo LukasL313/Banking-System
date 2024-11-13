@@ -1,8 +1,5 @@
 ﻿using System;
 
-
-
-
 namespace Program
 {
     class Program
@@ -11,38 +8,18 @@ namespace Program
         {
            while (true)
            {
+              Console.WriteLine("-------------------");
               Console.WriteLine("/n Hello, Welcome.");
+              Console.WriteLine("-------------------");
               Console.WriteLine("1. Create account.");
               Console.WriteLine("2. Show account info.");
               Console.WriteLine("3. Withdraw account.");
               Console.WriteLine("4. Deposit into account.");
               Console.WriteLine("5. Exit program");
+              Console.WriteLine("-------------------");
 
-              int choice = int.Parse(Console.ReadLine());
               
-              switch (choice)
-              {
-                
-                case '1':
-                 
-                break; 
-
-                 case '2':
-                
-                break; 
-
-                 case '3':
-                
-                break; 
-
-                 case '4':
-                
-                break; 
-
-                 case '5':
-                
-                return; 
-              }
+            
            }
         }
     }
